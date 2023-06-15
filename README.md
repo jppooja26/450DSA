@@ -6,6 +6,7 @@ This repository contains my solutions to the 450 DSA (Data Structures and Algori
 The 450 DSA worksheet consists of a comprehensive collection of coding problems covering various topics in data structures and algorithms. These problems are carefully selected to enhance understanding and proficiency in solving coding challenges. The topics covered in this worksheet include:
 
 1. Arrays
+   
    a. Reverse the array
       i.  Static array
       ii. Dynamic array
