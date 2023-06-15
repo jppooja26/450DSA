@@ -7,8 +7,8 @@ The 450 DSA worksheet consists of a comprehensive collection of coding problems 
 
 1. Arrays<br>
    a. Reverse the array<br>
-      i.  Static array<br>
-      ii. Dynamic array<br>
+   &nbsp   i.  Static array<br>
+   &nbsp   ii. Dynamic array<br>
    b. Minimum and maximum element in an array<br>
 
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
