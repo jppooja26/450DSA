@@ -1,3 +1,5 @@
+//Time complexity - O(n)
+//Space complexity - O(n)
 import java.util.Scanner;
 public class reverse {
     public static void rev1(int arr[], int n) {
