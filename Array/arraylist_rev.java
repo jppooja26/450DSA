@@ -1,3 +1,5 @@
+//Time complexity - O(n)
+//Space complexity - O(n)
 import java.util.*;
 public class arraylist_rev {
     public static void rev1(ArrayList<Integer> arr){
