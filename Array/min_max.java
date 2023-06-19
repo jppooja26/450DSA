@@ -1,3 +1,5 @@
+//Time complexity - O(nlogn)
+//Space complexity - O(n)
 import java.util.Scanner;
 import java.util.Arrays;
 public class min_max {
