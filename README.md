@@ -10,6 +10,9 @@ The 450 DSA worksheet consists of a comprehensive collection of coding problems 
       i.  Static array
       ii. Dynamic array
    b. Minimum and maximum element in an array
+   c. Kth maximum and minimum element of an array
+   d. Sort array consisting of 0,1,2 without using sorting algorithm
+   e. Move all negative elements to one side of an array
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
