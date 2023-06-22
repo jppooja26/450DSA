@@ -5,15 +5,17 @@ This repository contains my solutions to the 450 DSA (Data Structures and Algori
 # About the Worksheet
 The 450 DSA worksheet consists of a comprehensive collection of coding problems covering various topics in data structures and algorithms. These problems are carefully selected to enhance understanding and proficiency in solving coding challenges. The topics covered in this worksheet include:
 <pre>
-1. Array
-   a. Reverse the array
-      i.  Static array
-      ii. Dynamic array
-   b. Minimum and maximum element in an array
-   c. Kth maximum and minimum element of an array
-   d. Sort array consisting of 0,1,2 without using sorting algorithm
-   e. Move all negative elements to one side of an array
-   f. Union and intersection of two arrays
+I. Array
+   1. Reverse the array
+      a.  Static array
+      b. Dynamic array
+   2. Minimum and maximum element in an array
+   3. Kth maximum and minimum element of an array
+   4. Sort array consisting of 0,1,2 without using sorting algorithm
+   5. Move all negative elements to one side of an array
+   6. Union and intersection of two arrays
+   7. Cyclically rotate array
+   
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
