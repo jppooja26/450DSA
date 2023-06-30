@@ -16,7 +16,8 @@ I. Array
    5. Move all negative elements to one side of an array
    6. Union and intersection of two arrays
    7. Cyclically rotate array
-   
+II. Matrix
+   1. Spiral traversal on a matrix
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
