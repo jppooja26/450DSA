@@ -2,7 +2,7 @@ package Matrix;
 import java.util.Scanner;
 
 public class search {
-    public static void search_ele(int[][] mat,int x) {
+    public static void search_ele(int[][] mat,int x) { //Time complexity - O(r*c), Space complexity - O(1)
         boolean found = false;
         for(int i=0;i<mat.length;i++) {
             for(int j=0;j<mat[0].length;j++) {
