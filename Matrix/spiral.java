@@ -1,5 +1,3 @@
-//Time complexity - O(r*c)
-//Space complexity - O(r*c)
 package Matrix;
 import java.util.Scanner;
 
