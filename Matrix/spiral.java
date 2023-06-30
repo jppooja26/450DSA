@@ -1,3 +1,5 @@
+//Time complexity - O(n)
+//Space complexity - O(n)
 package Matrix;
 import java.util.Scanner;
 
