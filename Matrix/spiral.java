@@ -4,7 +4,7 @@ package Matrix;
 import java.util.Scanner;
 
 public class spiral {
-    public static void rotate(int[][] mat,int r,int c) {
+    public static void rotate(int[][] mat,int r,int c) { //Time complexity - O(r*c), Space complexity - O(1)
         int top=0,bottom=r-1;
         int left=0,right=c-1;
         while(top<=bottom && left<=right) {
