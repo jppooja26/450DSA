@@ -20,6 +20,7 @@ II. Matrix
    1. Spiral traversal on a matrix
    2. Search an element in a maṭrix
    3. Median in a sorted matrix
+   4. Finding row with maximum number of 1's
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
