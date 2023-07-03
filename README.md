@@ -21,6 +21,8 @@ II. Matrix
    2. Search an element in a maṭrix
    3. Median in a sorted matrix
    4. Finding row with maximum number of 1's
+III. String
+   1. Reverse a string
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
