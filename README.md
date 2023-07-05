@@ -23,6 +23,7 @@ II. Matrix
    4. Finding row with maximum number of 1's
 III. String
    1. Reverse a string
+   2. Duplicate characters in a string
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
