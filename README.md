@@ -25,7 +25,9 @@ III. String
    1. Reverse a string
    2. Duplicate characters in a string
    3. Check whether a string is a rotation of another
-IV. Linked List
+IV. Search and Sort
+   1. First and last positions of element in a sorted array
+V. Linked List
    1. Reverse a linked list (Iterative and recursive approach)
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
