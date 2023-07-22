@@ -1,5 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
+//Time complexity - O(nlogn)
+//Space complexity - O(n)
 public class FirLas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
