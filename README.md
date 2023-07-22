@@ -27,6 +27,7 @@ III. String
    3. Check whether a string is a rotation of another
 IV. Search and Sort
    1. First and last positions of element in a sorted array
+   2. Value equal to its index in a given array
 V. Linked List
    1. Reverse a linked list (Iterative and recursive approach)
 </pre>
