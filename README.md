@@ -16,6 +16,8 @@ I. Array
    5. Move all negative elements to one side of an array
    6. Union and intersection of two arrays
    7. Cyclically rotate array
+   8. Largest sum contiguous subarray
+   9. Minimize the maximum difference between heights
 II. Matrix
    1. Spiral traversal on a matrix
    2. Search an element in a maṭrix
