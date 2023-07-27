@@ -18,6 +18,7 @@ I. Array
    7. Cyclically rotate array
    8. Largest sum contiguous subarray
    9. Minimize the maximum difference between heights
+   10. Minimum number of jumps to reach end of an array
 II. Matrix
    1. Spiral traversal on a matrix
    2. Search an element in a maṭrix
