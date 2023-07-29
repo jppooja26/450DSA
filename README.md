@@ -35,6 +35,7 @@ IV. Search and Sort
    1. First and last positions of element in a sorted array
    2. Value equal to its index in a given array
    3. Search in a rotated sorted array
+   4. Square root of an integer
 V. Linked List
    1. Reverse a linked list (Iterative and recursive approach)
 </pre>

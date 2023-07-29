@@ -3,13 +3,13 @@ public class rotSearch {
     //Time complexity - O(logn)
     //Space complexity - O(n)
     public static int search(int[] arr, int k) {
-        int start = 0,end = arr.length-1;
+        int start=0, end=arr.length-1;
         while(start<=end) {
             int mid = (start+end)/2;
             if(arr[mid]==k)
                 return mid;
             if(arr[start]<=arr[mid]) {
-                if(arr[start]<=k && arr[mid]>=k)
+                if(arr[start]<=k && arr[mid]>=k) 
                     end = mid-1;
                 else
                     start = mid+1;
@@ -36,5 +36,6 @@ public class rotSearch {
         int k = sc.nextInt();
         int pos = search(arr,k);
         System.out.print("Position: "+pos);
+        sc.close();
     }
 }
