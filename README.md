@@ -27,6 +27,7 @@ II. Matrix
    2. Search an element in a maṭrix
    3. Median in a sorted matrix
    4. Finding row with maximum number of 1's
+   5. Print elements in sorted order using row-column wise sorted matrix
 III. String
    1. Reverse a string
    2. Duplicate characters in a string

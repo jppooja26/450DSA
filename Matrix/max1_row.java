@@ -1,7 +1,7 @@
 package Matrix;
 import java.util.Scanner;
 public class max1_row {
-    public static int max_row(int[][] mat) { //Time complexity - O(n), Space complexity - O(1)
+    public static int max_row(int[][] mat) { //Time complexity - O(r*c), Space complexity - O(1)
         int row = 0;
         int max = 0;
         for(int i=0;i<mat.length;i++) {
