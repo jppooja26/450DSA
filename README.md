@@ -32,6 +32,7 @@ III. String
    1. Reverse a string
    2. Duplicate characters in a string
    3. Check whether a string is a rotation of another
+   4. Check whether a string is a valid shuffle of two strings or not
 IV. Search and Sort
    1. First and last positions of element in a sorted array
    2. Value equal to its index in a given array
