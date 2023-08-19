@@ -38,8 +38,10 @@ IV. Search and Sort
    2. Value equal to its index in a given array
    3. Search in a rotated sorted array
    4. Square root of an integer
-V. Linked List
+V.  Linked List
    1. Reverse a linked list (Iterative and recursive approach)
+VI. Stack and Queue
+   1. Implement stack from scratch
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
