@@ -1,5 +1,5 @@
 //Stack implementation using array 
-//Time complexity - O(n)
+//Time complexity - O(1)
 //Space complexity - O(n)
 package StackQueue.Implementation;
 import java.util.Scanner;

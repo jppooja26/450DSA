@@ -42,6 +42,7 @@ V.  Linked List
    1. Reverse a linked list (Iterative and recursive approach)
 VI. Stack and Queue
    1. Implement stack from scratch
+   2. Implement queue from scratch
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the 450 DSA worksheet.
 
