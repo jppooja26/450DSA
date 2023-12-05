@@ -1,25 +1,42 @@
-//Time complexity(mergeArray) - O(NlogN)
+//Time complexity(mergeArray) - O(N+M)
 //Space complexity(mergeArray) - O(1)
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.Collections;
 public class merge {
     public static void mergeArray(int[] arr1, int[] arr2) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        for(int i=0;i<arr1.length;i++) {
+        ArrayList<Integer> arr = new ArrayList<Integer>();
+        int i=0,j=0;
+        while(i<arr1.length && j<arr2.length) {
+            if(arr1[i]<arr2[j]) {
+                arr.add(arr1[i]);
+                i++;
+            }
+            else if(arr1[i]>arr2[j]) {
+                arr.add(arr2[j]);
+                j++;
+            }
+            else {
+                arr.add(arr1[i]);
+                arr.add(arr2[j]);
+                i++;
+                j++;
+            }
+        }
+        while(i<arr1.length) {
             arr.add(arr1[i]);
+            i++;
         }
-        for(int i=0;i<arr2.length;i++) {
-            arr.add(arr2[i]);
-        }
-        Collections.sort(arr);
-        int j = 0;
-        for(int i=0;i<arr1.length;i++) {
-            arr1[i] = arr.get(j);
+        while(j<arr2.length) {
+            arr.add(arr2[j]);
             j++;
         }
-        for(int i=0;i<arr2.length;i++) {
-            arr2[i] = arr.get(j);
+        j=0;
+        for(int k=0;k<arr1.length;k++) {
+            arr1[k] = arr.get(j);
+            j++;
+        }
+        for(int k=0;k<arr2.length;k++) {
+            arr2[k] = arr.get(j);
             j++;
         }
     }
